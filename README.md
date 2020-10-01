@@ -1,3 +1,3 @@
 # NewRepo
 Demonstration of functioning of branches \
-Example ffor git assignment
+Basic Example for git assignment
